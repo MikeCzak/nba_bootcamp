@@ -1,0 +1,10 @@
+F,29
+MIKE,19
+MIKE,18
+MIKE,15
+MIKE,8
+MIKE,5
+D,1
+D,1
+-,0
+-,0
